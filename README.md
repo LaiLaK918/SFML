@@ -1,12 +1,16 @@
 # Setup
 
+Create A folder named "lib" in disk D
+
+Download SFML_2.5.1 and extract to ```bash D:\lib ```
+
 In Solution Explorer
 
 Solution Platforms: x86
 
 Solution Configurations: Debug
 
-C/C++ -> General -> Additional Include Directories: D:\Lib\SFML-2.5.1\include
+C/C++ -> General -> Additional Include Directories: ```bash D:\Lib\SFML-2.5.1\include ```
 
 C/C++ -> Preprocessor -> Preprocessor Definitions -> Edit -> Add:
 
@@ -14,7 +18,7 @@ C/C++ -> Preprocessor -> Preprocessor Definitions -> Edit -> Add:
 SFML_STATIC
 ```
 
-Linker -> General -> Additional Library Directories: D:\Lib\SFML-2.5.1\lib
+Linker -> General -> Additional Library Directories: ```bash D:\Lib\SFML-2.5.1\lib ```
 
 Linker -> Input -> Additional Dependencies -> Edit
 
