@@ -33,3 +33,8 @@ winmm.lib
 gdi32.lib
 ```
 
+Additional:
+```bash
+sfml-audio-s-d.lib
+sfml-network-s-d.lib
+```
