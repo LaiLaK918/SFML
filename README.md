@@ -1,8 +1,8 @@
 # Setup
 
-Create A folder named "lib" in disk D
+Create A folder named "Lib" in disk D
 
-Download SFML_2.5.1 and extract to ``` D:\lib ```
+Download SFML_2.5.1 and extract to ``` D:\Lib ```
 
 In Solution Explorer
 
